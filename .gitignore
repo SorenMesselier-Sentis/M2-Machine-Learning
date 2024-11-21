@@ -1,0 +1,18 @@
+# MISC
+.idea
+.DS_Store
+
+# CIFRAMODEL10
+cifarmodel/.DS_Store
+cifarmodel/.idea
+cifarmodel/data
+cifarmodel/.ipynb_checkpoints
+cifarmodel/lightning_logs
+cifarmodel/cifar10_env
+cifarmodel/model_weights.pth
+cifarmodel/exports/vgg/cifar10_64_model.pth
+
+# API
+api/model
+api/fastapi_env
+api/model/vgg_cifar10_model.onnx

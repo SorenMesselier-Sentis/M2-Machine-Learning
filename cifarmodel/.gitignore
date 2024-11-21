@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+cifar10_env
+.DS_Store
+
+data
+
+# MISC
+.idea
